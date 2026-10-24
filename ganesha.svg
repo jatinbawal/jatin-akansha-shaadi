@@ -1,0 +1,14 @@
+<svg class="ganesha-art" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 185" role="img" aria-label="Lord Ganesha illustration">
+<g fill="none" stroke="#ad793f" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M90 12 L101 25 L90 22 L79 25 Z M66 34 Q90 20 114 34 L108 47 Q90 39 72 47 Z"/>
+<path d="M74 47 Q90 39 106 47 Q119 56 118 76 Q115 94 104 104"/>
+<path d="M74 47 Q61 57 62 77 Q65 95 79 105"/>
+<path d="M64 58 Q38 41 27 69 Q17 97 56 112 Q64 114 69 106"/>
+<path d="M116 58 Q142 41 153 69 Q163 97 124 112 Q116 114 111 106"/>
+<path d="M79 105 Q86 115 91 106 Q98 98 96 85 Q92 77 87 83 Q83 90 90 98 Q104 115 97 130 Q90 146 75 139"/>
+<path d="M72 86 Q77 82 81 87 M103 87 Q108 82 113 86"/>
+<path d="M74 114 Q58 124 55 143 M108 114 Q125 124 128 143"/>
+<path d="M55 143 Q88 163 128 143 M67 153 Q90 176 116 153"/>
+<path d="M90 26 V34 M48 153 Q90 182 133 153"/>
+</g><circle cx="90" cy="49" r="3" fill="#ad793f"/><path d="M90 4 v-4 M40 30 l-7-7 M140 30 l7-7" stroke="#ad793f" stroke-width="2" opacity=".65"/>
+</svg>
